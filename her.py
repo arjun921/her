@@ -59,6 +59,7 @@ print('Creating images folder')
 os.makedirs('images')
 
 
+
 print('Starting handwriting generation')
 for index, line in enumerate(lines):
     # if index < start_at:
